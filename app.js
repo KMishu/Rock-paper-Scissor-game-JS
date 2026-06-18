@@ -1,4 +1,4 @@
-let userScore = 000000;
+let userScore = 000;
 let compScore = 0;
 
 const choices = document.querySelectorAll(".choice");
